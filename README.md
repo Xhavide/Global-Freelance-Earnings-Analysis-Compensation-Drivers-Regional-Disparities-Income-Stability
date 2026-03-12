@@ -25,3 +25,8 @@ This section provides a high-level summary of global freelance earnings includin
 
 ![](https://github.com/Xhavide/Global-Freelance-Earnings-Analysis-Compensation-Drivers-Regional-Disparities-Income-Stability/blob/6444efe48ee37ded3babccb5539efe3e89801a0a/Screenshot%202026-03-12%20231424.png)
 
+### Market Comparison
+
+Regional comparison of freelance markets highlighting top paying countries and global income distribution.
+![Market Comparison](https://github.com/Xhavide/Global-Freelance-Earnings-Analysis-Compensation-Drivers-Regional-Disparities-Income-Stability/blob/13c6cd3e83f7bb9ed511dda751155b5e57199f08/Screenshot%202026-03-12%20231624.png)
+

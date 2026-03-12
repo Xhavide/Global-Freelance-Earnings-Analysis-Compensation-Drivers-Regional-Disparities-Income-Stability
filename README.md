@@ -1,2 +1,2 @@
-# Global-Freelance-Earnings-Analysis
+# Global Freelance Earnings Analysis
 ## Compensation Drivers, Regional Disparities & Income Stability

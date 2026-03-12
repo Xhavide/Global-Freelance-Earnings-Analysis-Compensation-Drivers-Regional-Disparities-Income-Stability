@@ -10,4 +10,12 @@ The project focuses on uncovering meaningful patterns in the freelance labor mar
 
 Interactive visualizations were developed using Tableau to present insights through an executive-style analytical dashboard.
 
+## Interactive Dashboard
+
+View the full interactive dashboard here:
+[Tableau Public Dashboard]([PASTE-YOUR-TABLEAU-LINK-HERE](https://public.tableau.com/app/profile/xhavide.zymberi/viz/GlobalFreelanceMarketAnalysisCompensationDriversRegionalDisparitiesIncomeStability/GlobalFreelanceEarningsAnalysisdashboard))
+
+
+
 ## 🖥️ Tableau Dashboard Preview
+

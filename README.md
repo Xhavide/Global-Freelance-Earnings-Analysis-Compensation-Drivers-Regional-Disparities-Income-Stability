@@ -23,11 +23,21 @@ View the full interactive dashboard [here](https://public.tableau.com/app/profil
 
 This section provides a high-level summary of global freelance earnings including key KPIs such as average annual income, median hourly rate, total freelancers analyzed, and the highest-paying region.
 
-![](https://github.com/Xhavide/Global-Freelance-Earnings-Analysis-Compensation-Drivers-Regional-Disparities-Income-Stability/blob/6444efe48ee37ded3babccb5539efe3e89801a0a/Screenshot%202026-03-12%20231424.png)
+![Executive Overview](https://github.com/Xhavide/Global-Freelance-Earnings-Analysis-Compensation-Drivers-Regional-Disparities-Income-Stability/blob/6444efe48ee37ded3babccb5539efe3e89801a0a/Screenshot%202026-03-12%20231424.png)
 
 ### Market Comparison
 
 Regional comparison of freelance markets highlighting top paying region and global income distribution.
 
 ![Market Comparison](https://github.com/Xhavide/Global-Freelance-Earnings-Analysis-Compensation-Drivers-Regional-Disparities-Income-Stability/blob/13c6cd3e83f7bb9ed511dda751155b5e57199f08/Screenshot%202026-03-12%20231624.png)
+
+
+
+### Income Stability Analysis
+
+Statistical measures such as Coefficient of Variation (CV) and Interquartile Range (IQR) are used to analyze income dispersion and stability across countries.
+
+![Income Stability](https://github.com/Xhavide/Global-Freelance-Earnings-Analysis-Compensation-Drivers-Regional-Disparities-Income-Stability/blob/b6c08911b481ba9aa933acfe75bc2513e95ab1ed/Screenshot%202026-03-12%20231747.png)
+
+
 

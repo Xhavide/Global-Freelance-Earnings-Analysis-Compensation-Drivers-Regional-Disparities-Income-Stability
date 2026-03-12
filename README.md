@@ -18,4 +18,5 @@ View the full interactive dashboard [here](https://public.tableau.com/app/profil
 
 
 ## 🖥️ Tableau Dashboard Preview
+![](https://github.com/Xhavide/Global-Freelance-Earnings-Analysis-Compensation-Drivers-Regional-Disparities-Income-Stability/blob/6444efe48ee37ded3babccb5539efe3e89801a0a/Screenshot%202026-03-12%20231424.png)
 

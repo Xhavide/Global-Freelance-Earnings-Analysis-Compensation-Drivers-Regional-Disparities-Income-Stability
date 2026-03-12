@@ -12,8 +12,8 @@ Interactive visualizations were developed using Tableau to present insights thro
 
 ## Interactive Dashboard
 
-View the full interactive dashboard here:
-[Tableau Public Dashboard]([PASTE-YOUR-TABLEAU-LINK-HERE](https://public.tableau.com/app/profile/xhavide.zymberi/viz/GlobalFreelanceMarketAnalysisCompensationDriversRegionalDisparitiesIncomeStability/GlobalFreelanceEarningsAnalysisdashboard)
+[View the full interactive dashboard]([here](https://public.tableau.com/app/profile/xhavide.zymberi/viz/GlobalFreelanceMarketAnalysisCompensationDriversRegionalDisparitiesIncomeStability/GlobalFreelanceEarningsAnalysisdashboard))
+
 
 
 

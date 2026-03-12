@@ -11,3 +11,4 @@ The project focuses on uncovering meaningful patterns in the freelance labor mar
 Interactive visualizations were developed using Tableau to present insights through an executive-style analytical dashboard.
 
 ## 🖥️ Tableau Dashboard Preview
+https://github.com/Xhavide/Global-Freelance-Earnings-Analysis-Compensation-Drivers-Regional-Disparities-Income-Stability/blob/47db59e0177cb7d2fca7ce3843ab12d34de2e98a/Screenshot%202026-03-12%20004445.png

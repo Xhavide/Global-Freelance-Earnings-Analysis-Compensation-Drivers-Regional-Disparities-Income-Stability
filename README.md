@@ -57,7 +57,7 @@ Statistical measures such as Coefficient of Variation (CV) and Interquartile Ran
 
 
 
-## Key Insights
+🧠## Key Insights
 
 • **Years of experience show minimal impact on freelance earnings.**
 

@@ -91,6 +91,8 @@ To analyze compensation levels and income stability across markets, the followin
 
 These metrics allow meaningful comparisons between markets with different compensation levels.
 
+
+-----------
 ## Key Calculated Fields (Tableau)
 
 - **Median Hourly Rate per Country**
@@ -128,6 +130,20 @@ IQR helps identify income dispersion while reducing the influence of extreme val
 Used to evaluate how far individual freelancer earnings deviate from the typical country compensation level.
 
 This metric highlights income inequality within freelance markets.
+
+----------
+
+## Limitations
+
+Several limitations should be considered when interpreting the analysis:
+
+• The dataset size (~500 records) represents a sample rather than the entire freelance market.
+
+• Some countries had small sample sizes and were filtered to improve statistical reliability.
+
+• Outliers may still exist in certain markets and could slightly influence some aggregated metrics.
+
+Future analysis could include larger datasets and additional variables such as industry specialization and project type.
 
 
 

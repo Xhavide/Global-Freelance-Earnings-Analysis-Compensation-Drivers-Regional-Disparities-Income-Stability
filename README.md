@@ -10,7 +10,10 @@ The project focuses on uncovering meaningful patterns in the freelance labor mar
 
 Interactive visualizations were developed using Tableau to present insights through an executive-style analytical dashboard.
 
+
+------------
 ## Business Questions
+
 
 This analysis explores several key questions about the global freelance market:
 
@@ -22,6 +25,7 @@ This analysis explores several key questions about the global freelance market:
 
 • Which factors drive the largest differences in freelance earnings?
 
+--------------
 ## Interactive Dashboard
 
 View the full interactive dashboard [here](https://public.tableau.com/app/profile/xhavide.zymberi/viz/GlobalFreelanceMarketAnalysisCompensationDriversRegionalDisparitiesIncomeStability/GlobalFreelanceEarningsAnalysisdashboard)
@@ -52,6 +56,7 @@ Statistical measures such as Coefficient of Variation (CV) and Interquartile Ran
 ![Income Stability](https://github.com/Xhavide/Global-Freelance-Earnings-Analysis-Compensation-Drivers-Regional-Disparities-Income-Stability/blob/b6c08911b481ba9aa933acfe75bc2513e95ab1ed/Screenshot%202026-03-12%20231747.png)
 
 
+
 ## Key Insights
 
 • **Years of experience show minimal impact on freelance earnings.**
@@ -64,7 +69,7 @@ Statistical measures such as Coefficient of Variation (CV) and Interquartile Ran
 
 • **Emerging markets exhibit higher income dispersion relative to developed markets.**
 
-
+------------
 ## Data Preparation
 
 Several data quality checks and preprocessing steps were performed:
@@ -73,7 +78,7 @@ Several data quality checks and preprocessing steps were performed:
 - Extreme outliers were removed when necessary to avoid distortion of income metrics.
 - Median values were used instead of averages for certain comparisons to reduce outlier influence.
  
-
+--------------
 ## Key Metrics Used
 
 To analyze compensation levels and income stability across markets, the following statistical measures were used:
@@ -88,12 +93,41 @@ These metrics allow meaningful comparisons between markets with different compen
 
 ## Key Calculated Fields (Tableau)
 
-**Median Hourly Rate per Country**
+- **Median Hourly Rate per Country**
+
 { FIXED [Country] : MEDIAN([Hourly Rate Usd]) }
+
 Used to measure the typical compensation level within each country.
 
-**Coefficient of Variation (CV)**
+- **Coefficient of Variation (CV)per country**
 
+[Country StdDev] / [Country Mean]
+
+Used to measure relative income volatility across markets.
+
+CV allows comparison of compensation stability across countries with different income levels.
+
+
+- **Interquartile Range (IQR) per country**
+
+{ FIXED [Country] : PERCENTILE([Hourly Rate Usd], 0.75)} -
+{ FIXED [Country] : PERCENTILE([Hourly Rate Usd], 0.25)}
+
+Measures dispersion within the middle 50% of earnings.
+
+IQR helps identify income dispersion while reducing the influence of extreme values.
+
+
+
+- **% Difference from Country Median**
+
+
+([Hourly Rate Usd] - [Country Median Rate])
+/ [Country Median Rate]
+
+Used to evaluate how far individual freelancer earnings deviate from the typical country compensation level.
+
+This metric highlights income inequality within freelance markets.
 
 
 

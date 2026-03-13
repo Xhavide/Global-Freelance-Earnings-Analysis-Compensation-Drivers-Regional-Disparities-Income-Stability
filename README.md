@@ -10,8 +10,18 @@ The project focuses on uncovering meaningful patterns in the freelance labor mar
 
 Interactive visualizations were developed using Tableau to present insights through an executive-style analytical dashboard.
 
+-----
+
+**Project Type:** Exploratory Data Analysis & Data Visualization
+
+**Dataset Size:** ~500 observations
+
+**Tools:** Tableau, Excel
+
+**Statistical Metrics:** Median, Coefficient of Variation (CV), Interquartile Range (IQR)
 
 ------------
+
 ## 🎯 Business Questions
 
 

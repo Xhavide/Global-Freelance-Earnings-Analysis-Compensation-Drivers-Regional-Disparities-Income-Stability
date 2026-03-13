@@ -177,7 +177,7 @@ global-freelance-earnings-analysis
 
   ------
 
-  **Business Relevance**
+## Business Relevance
 
 This analysis highlights how freelance labor markets function differently from traditional employment markets.
 
@@ -202,7 +202,9 @@ LinkedIn:
 https://www.linkedin.com/in/xhavide-zymberi/
 
 GitHub:
-(Add your GitHub profile link here)
+([https://github.com/Xhavide](https://github.com/Xhavide))
+
+Tableau: ([https://public.tableau.com/app/profile/xhavide.zymberi/vizzes](https://public.tableau.com/app/profile/xhavide.zymberi/vizzes))
 
 
 

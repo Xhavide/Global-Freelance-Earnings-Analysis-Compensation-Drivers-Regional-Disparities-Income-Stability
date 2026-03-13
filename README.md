@@ -10,6 +10,18 @@ The project focuses on uncovering meaningful patterns in the freelance labor mar
 
 Interactive visualizations were developed using Tableau to present insights through an executive-style analytical dashboard.
 
+## Business Questions
+
+This analysis explores several key questions about the global freelance market:
+
+• What regions offer the highest freelance compensation?
+
+• Does education level significantly impact freelancer income?
+
+• How does income stability vary across developed and emerging markets?
+
+• Which factors drive the largest differences in freelance earnings?
+
 ## Interactive Dashboard
 
 View the full interactive dashboard [here](https://public.tableau.com/app/profile/xhavide.zymberi/viz/GlobalFreelanceMarketAnalysisCompensationDriversRegionalDisparitiesIncomeStability/GlobalFreelanceEarningsAnalysisdashboard)
@@ -38,6 +50,68 @@ Regional comparison of freelance markets highlighting top paying region and glob
 Statistical measures such as Coefficient of Variation (CV) and Interquartile Range (IQR) are used to analyze income dispersion and stability across countries.
 
 ![Income Stability](https://github.com/Xhavide/Global-Freelance-Earnings-Analysis-Compensation-Drivers-Regional-Disparities-Income-Stability/blob/b6c08911b481ba9aa933acfe75bc2513e95ab1ed/Screenshot%202026-03-12%20231747.png)
+
+
+## Key Insights
+
+• **Years of experience show minimal impact on freelance earnings.**
+
+• **Education level does not significantly influence freelancer income.**
+
+• **Skill specialization is the strongest driver of higher earnings.**
+
+• **Western Europe ranks as the highest-paying region, with Switzerland leading the market in median hourly compensation.**
+
+• **Emerging markets exhibit higher income dispersion relative to developed markets.**
+
+
+## Data Preparation
+
+Several data quality checks and preprocessing steps were performed:
+
+- Countries with **sample size < 15 were filtered** to improve statistical reliability.
+- Extreme outliers were removed when necessary to avoid distortion of income metrics.
+- Median values were used instead of averages for certain comparisons to reduce outlier influence.
+ 
+
+## Key Metrics Used
+
+To analyze compensation levels and income stability across markets, the following statistical measures were used:
+
+• **Median Hourly Rate** – chosen to represent typical earnings while minimizing the effect of extreme outliers.
+
+• **Coefficient of Variation (CV)** – used to measure income volatility relative to average compensation levels.
+
+• **Interquartile Range (IQR)** – used to evaluate income dispersion within the middle 50% of the dataset.
+
+These metrics allow meaningful comparisons between markets with different compensation levels.
+
+## Key Calculated Fields (Tableau)
+
+**Median Hourly Rate per Country**
+{ FIXED [Country] : MEDIAN([Hourly Rate Usd]) }
+Used to measure the typical compensation level within each country.
+
+**Coefficient of Variation (CV)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -145,6 +145,37 @@ Several limitations should be considered when interpreting the analysis:
 
 Future analysis could include larger datasets and additional variables such as industry specialization and project type.
 
+------
+## Repository Structure
+
+
+global-freelance-earnings-analysis
+│
+├── data
+│ └── freelance_dataset.csv
+│
+├── tableau
+│ └── freelance_earnings_dashboard.twbx
+│
+├── dashboard-preview
+│ └── dashboard_overview.png
+│ └── market_comparison.png
+│ └── statistical_analysis.png
+│
+└── README.md
+
+------
+
+## Skills Demonstrated
+
+- Data analysis
+- Data visualization
+- Tableau dashboard design
+- Statistical analysis
+- Market analysis
+- Data storytelling
+
+
 
 
 

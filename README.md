@@ -1,6 +1,6 @@
 # Global Freelance Earnings Analysis
 ## Compensation Drivers, Regional Disparities & Income Stability
-
+Tableau Dashboard | Data Analysis | Market Insights
 
 ### 🔎 Project Overview
 
@@ -12,7 +12,7 @@ Interactive visualizations were developed using Tableau to present insights thro
 
 
 ------------
-## Business Questions
+## 🎯 Business Questions
 
 
 This analysis explores several key questions about the global freelance market:
@@ -57,7 +57,7 @@ Statistical measures such as Coefficient of Variation (CV) and Interquartile Ran
 
 
 
-🧠## Key Insights
+## 🧠Key Insights
 
 • **Years of experience show minimal impact on freelance earnings.**
 
@@ -70,7 +70,7 @@ Statistical measures such as Coefficient of Variation (CV) and Interquartile Ran
 • **Emerging markets exhibit higher income dispersion relative to developed markets.**
 
 ------------
-## Data Preparation
+## 🧹 Data Preparation
 
 Several data quality checks and preprocessing steps were performed:
 
@@ -79,7 +79,7 @@ Several data quality checks and preprocessing steps were performed:
 - Median values were used instead of averages for certain comparisons to reduce outlier influence.
  
 --------------
-## Key Metrics Used
+## 📊  Key Metrics Used
 
 To analyze compensation levels and income stability across markets, the following statistical measures were used:
 
@@ -93,7 +93,7 @@ These metrics allow meaningful comparisons between markets with different compen
 
 
 -----------
-## Key Calculated Fields (Tableau)
+## 🧮 Key Calculated Fields (Tableau)
 
 - **Median Hourly Rate per Country**
 
@@ -133,7 +133,7 @@ This metric highlights income inequality within freelance markets.
 
 ----------
 
-## Limitations
+## ⚠️  Limitations
 
 Several limitations should be considered when interpreting the analysis:
 
@@ -166,7 +166,7 @@ global-freelance-earnings-analysis
 
 ------
 
-## Skills Demonstrated
+## 🛠 Skills Demonstrated
 
 - Data analysis
 - Data visualization
@@ -175,9 +175,9 @@ global-freelance-earnings-analysis
 - Market analysis
 - Data storytelling
 
-  ------
+------
 
-## Business Relevance
+## 💼 Business Relevance
 
 This analysis highlights how freelance labor markets function differently from traditional employment markets.
 
@@ -191,7 +191,7 @@ Organizations and platforms can use similar analyses to:
 
 - Improve talent sourcing strategies across regions
 
-  -------
+-------
 
 **Author**
 

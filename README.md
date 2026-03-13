@@ -193,9 +193,10 @@ Organizations and platforms can use similar analyses to:
 
 -------
 
-**Author**
+## 👩‍💻 Author
 
 **Xhavide Zymberi**
+
 Data Analytics | SQL | Tableau | Marketing Analytics
 
 LinkedIn:

@@ -173,8 +173,9 @@ global-freelance-earnings-analysis
 │ └── statistical_analysis.png
 │
 └── README.md
-
+```
 ------
+
 
 ## 🛠 Skills Demonstrated
 
@@ -184,7 +185,7 @@ global-freelance-earnings-analysis
 - Statistical analysis
 - Market analysis
 - Data storytelling
-```
+
 
 ------
 

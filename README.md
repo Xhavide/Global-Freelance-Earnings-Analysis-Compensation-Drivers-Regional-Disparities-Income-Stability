@@ -156,9 +156,9 @@ Several limitations should be considered when interpreting the analysis:
 Future analysis could include larger datasets and additional variables such as industry specialization and project type.
 
 ------
-## Repository Structure
+## 📂 Repository Structure
 
-
+```
 global-freelance-earnings-analysis
 │
 ├── data
@@ -184,6 +184,7 @@ global-freelance-earnings-analysis
 - Statistical analysis
 - Market analysis
 - Data storytelling
+```
 
 ------
 
